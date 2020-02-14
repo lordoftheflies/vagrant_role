@@ -1,8 +1,9 @@
 ---
-title: 'ansible-role-vagrant'
-description: 'Vagrant manager role.'
-feedback: true
+title: 'Ansible Role: Vagrant'
+description: 'Quickstart and directives for Ansible Galaxy Role Vagrant.'
 comments: true
+feedback: true
+
 ---
 
 # Ansible Role: Vagrant
