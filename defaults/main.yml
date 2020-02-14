@@ -1,5 +1,5 @@
 ---
-# defaults file for ansible-role-vagrant
+# defaults file for vagrant_role
 
 virtualbox:
   install: True
