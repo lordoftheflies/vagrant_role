@@ -1,5 +1,5 @@
 ---
-# handlers file for ansible-role-vagrant
+# handlers file for vagrant_role
 #
 #- name: "Display facts"
 #  listen: display facts
