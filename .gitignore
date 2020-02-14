@@ -1,2 +1,17 @@
+*~
+.swp
+
+# others
+
+*.log
+.private
+.prv
+.retry
+*.retry
+.vault
+generated_inventory
+.env/
+.venv
+.ansible/
 .idea/
 .vagrant/
